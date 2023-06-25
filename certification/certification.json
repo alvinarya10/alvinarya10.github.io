@@ -1,0 +1,19 @@
+[
+ {
+        "name": "Beginners Guide : Web Development",
+        "by": "Google Developer Student Clubs University of Brawijaya",
+        "image": "./certification/SertifikatWeb.png",
+        "category":"programming",
+        "links": {
+            "credentials": "./certification/SertifikatWeb.png"
+        }
+    }, {
+        "name": "Intro To UI Design",
+        "by": "Google Developer Student Clubs University of Brawijaya",
+        "image": "./certification/SertifikatUI.png",
+        "category":"programming",
+        "links": {
+            "credentials": "./certification/SertifikatUI.png"
+        }
+    }
+]

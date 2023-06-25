@@ -1,0 +1,30 @@
+[
+    {
+        "title": "Website Ucapan Selamat Ulang Tahun",
+        "tech": "HTML, CSS & JS",
+        "image": "./assets/img/project/sshbd.png",
+        "desc":"Ini adalah project website ucapan ulang tahun dengan menggunakan HTML, CSS & JS. Sebuah ucapan ulang tahun untuk orang spesial yang aku kira kita akan terus merayakan momen ini bersama setiap tahun, tapi takdir berkata lain. Kita memiliki jalan yang berbeda dan terpaksa berpisah.",
+        "links": {
+            "demo": "https://hbdwawaa.alvinarya.repl.co/"
+        }
+    },
+    {
+        "title": "Codingan Bunga",
+        "tech": "HTML, CSS & JS",
+        "image": "./assets/img/project/ssbunga.png",
+        "desc":"Sebuah jarak yang memisahkan, hanya bisa ku kirimkan sebuah codingan bunga sebagai pengganti indahnya mawar merah untukmu. Begitu banyak waktu yang kita habiskan bersama, kini aku harus menerima bahwa kita adalah variabel yang tak cocok, dan takdir memisahkan kita dalam sebuah kesalahan fatal.",
+        "links": {
+            "demo": "https://flowerfornajwaa.alvinarya.repl.co/"
+        }
+   
+    }
+    ,{
+        "title": "Playlist Musik",
+        "tech": "HTML, CSS & JS",
+        "image": "./assets/img/project/ssplaylist.png",
+        "desc": "kuciptakan sebuah playlist musik yang menggambarkan sosok dirimu, tentang harmoninya kisah kita melalui lantunan lagu-lagu. Setiap lagu adalah pencerita yang setia, mewakili detik-detik kebersamaan kita yang penuh cinta dan kebahagiaan. Namun, takdir memisahkan kita. Meskipun lantunan lagu-lagu ini menghadirkan nostalgia dan cinta yang pernah kita rasakan, kita harus menerima bahwa jalan hidup kita berpisah. Playlist ini menjadi persembahan terakhir dalam perjalanan kisah kita.",
+        "links": {
+            "demo": "https://playlistfornajwa.alvinarya1.repl.co/"
+        }
+    }
+]
